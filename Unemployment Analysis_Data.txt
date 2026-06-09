@@ -1,0 +1,9 @@
+State,Unemployment Rate (%),Employed,Labour Participation Rate (%)
+Andhra Pradesh,7.5,500000,42.5
+Telangana,8.2,450000,44.2
+Tamil Nadu,6.1,620000,41.8
+Karnataka,5.8,580000,40.5
+Kerala,9.0,400000,39.7
+Maharashtra,7.2,700000,45.1
+Delhi,10.5,300000,38.9
+Punjab,6.8,350000,41.2
